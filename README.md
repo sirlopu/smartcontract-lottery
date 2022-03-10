@@ -1,4 +1,5 @@
-# Decentralized Lottery App
+# Decentralized Lottery App Demo
+cred: @PatrickAlphaC
 
 1. Users can enter lotter with ETH based on a USD fee
 2. An admin will choose when the lottery is over (e.g. DAO or Chainlink Keepers)
